@@ -22,4 +22,4 @@ The data used is LIVING PLANET REPORT 2022 : https://wwfint.awsassets.panda.org/
  Hence, I decided to go with FAISS (Facebook AI Similarity Search) which is a library and works similar to a vector database and can be used for indexing.
  
  ## Demo Link
- 
+ https://youtu.be/4S-WsDDpQBw
